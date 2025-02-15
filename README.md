@@ -19,4 +19,5 @@ This Repository for my reminder of Leetcode Data Science and Analysis Practice j
 | [1801-average-time-of-process-per-machine](https://github.com/Deliana984/Leetcode_Practice_Solutions/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/Deliana984/Leetcode_Practice_Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Deliana984/Leetcode_Practice_Solutions/tree/master/1908-recyclable-and-low-fat-products) |
+| [2087-confirmation-rate](https://github.com/Deliana984/Leetcode_Practice_Solutions/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
